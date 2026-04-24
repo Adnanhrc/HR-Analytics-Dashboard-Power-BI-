@@ -87,7 +87,8 @@ Contributions are welcome! Feel free to fork the repo and submit a pull request.
 ---
 
 ## 📬 Contact
-Your Name  
+Adnan 
+
 LinkedIn: https://www.linkedin.com/in/adnanhrc/  
 Email: mohammadnan88@gmail.com
 
